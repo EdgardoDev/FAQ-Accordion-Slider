@@ -16,5 +16,5 @@ FAQ Accordion Slider using jQuery.
 
 ## Live Demo
 
-You can see the live demo [HERE](http://edgardopinto-escalier.github.io/FAQ-Accordion-Slider/)
+You can see the live demo [HERE](http://edgardodev.github.io/FAQ-Accordion-Slider/)
 
